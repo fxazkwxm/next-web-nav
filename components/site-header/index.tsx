@@ -104,9 +104,19 @@ export function SiteHeader() {
 }
 
 
-<!-- 添加 CSS 文件的 CDN -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" integrity="sha512-XXXXX" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-<!-- 添加 JS 文件的 CDN -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/react/17.0.2/umd/react.production.min.js" integrity="sha512-XXXXX" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/17.0.2/umd/react-dom.production.min.js" integrity="sha512-XXXXX" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- 其他现有的标签 -->
+    
+    <!-- 添加 CSS 文件的 CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" integrity="sha512-XXXXX" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    <!-- 添加 JS 文件的 CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/17.0.2/umd/react.production.min.js" integrity="sha512-XXXXX" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/17.0.2/umd/react-dom.production.min.js" integrity="sha512-XXXXX" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+<body>
+    <!-- 你的内容 -->
+</body>
+</html>
